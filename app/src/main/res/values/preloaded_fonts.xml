@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/archivo_black</item>
+        <item>@font/chango</item>
+        <item>@font/dm_sans</item>
+        <item>@font/dm_sans_bold</item>
+        <item>@font/dm_sans_medium</item>
+        <item>@font/palanquin</item>
+        <item>@font/palanquin_dark</item>
+        <item>@font/palanquin_dark_bold</item>
+    </array>
+</resources>
