@@ -70,7 +70,6 @@ public class ScannerActivity extends AppCompatActivity implements ZXingScannerVi
 
         Bundle bundle = getIntent().getExtras();
         idSertem = bundle.getString("idSertem");
-
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
